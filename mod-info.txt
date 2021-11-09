@@ -1,0 +1,7 @@
+[mod]
+title: Amogus
+description: Amogus is sus
+
+tags: units
+
+thumbnail: thumbnail.png
